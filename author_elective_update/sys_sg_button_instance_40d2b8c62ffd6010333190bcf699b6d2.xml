@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Delete">6e1e28062ffd6010333190bcf699b6be</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete</name>
+        <order>10</order>
+        <parent>60dfb7352f7d6010333190bcf699b6b4</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 12:00:30</sys_created_on>
+        <sys_id>40d2b8c62ffd6010333190bcf699b6d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_40d2b8c62ffd6010333190bcf699b6d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 12:00:30</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=40d2b8c62ffd6010333190bcf699b6d2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>17c6c4e1db5144908aea21c4059619cf</instance_id>
+        <instance_name>dev95169</instance_name>
+        <name>sys_sg_button_instance_40d2b8c62ffd6010333190bcf699b6d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Delete">6e1e28062ffd6010333190bcf699b6be</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Delete</label><location>leading_swipe</location><name>Delete</name><order>10</order><parent>60dfb7352f7d6010333190bcf699b6b4</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-20 12:00:30</sys_created_on><sys_id>40d2b8c62ffd6010333190bcf699b6d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Delete</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_button_instance_40d2b8c62ffd6010333190bcf699b6d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-20 12:00:30</sys_updated_on><table>x_58872_needit_needit</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=40d2b8c62ffd6010333190bcf699b6d2"/></record_update>]]></payload>
+        <payload_hash>-892408436</payload_hash>
+        <record_name>Delete</record_name>
+        <reverted_from/>
+        <source>20b249872fa12010333190bcf699b611</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 12:00:30</sys_created_on>
+        <sys_id>08d2b8c62ffd6010333190bcf699b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1771faae91f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 12:00:30</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>40d2b8c687fd60106c4e5ba7a198cad4</update_guid>
+        <update_guid_history>40d2b8c687fd60106c4e5ba7a198cad4:-892408436</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 12:00:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>3a4d5c259bc3422ab98f460601461df1</sys_id>
+        <sys_metadata>40d2b8c62ffd6010333190bcf699b6d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_40d2b8c62ffd6010333190bcf699b6d2</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_40d2b8c62ffd6010333190bcf699b6d2">08d2b8c62ffd6010333190bcf699b6d4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 12:00:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
